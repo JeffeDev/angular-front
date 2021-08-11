@@ -1,0 +1,18 @@
+.home {
+    width: 95%;
+    margin: auto;
+}
+
+@media(max-width:770px) {
+    .home {
+        width: 90%;
+    }
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+.subtitle {
+    fon-size: .6rem;
+}

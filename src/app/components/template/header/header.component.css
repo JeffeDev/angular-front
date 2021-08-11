@@ -1,0 +1,14 @@
+img{
+    height : 3rem;
+}
+.header{
+    height: 10%;
+    align: center;
+}
+span{
+    display: flex;
+}
+h1{
+    padding-left : 1.2rem;
+    font-size:1.2rem;
+}
